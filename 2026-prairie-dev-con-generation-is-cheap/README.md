@@ -16,7 +16,7 @@ This keynote examines the middle of that transition through four lenses:
 
 ## Materials
 
-- **Slides:** PDF coming closer to the event.
+- [Slides (PDF)](./slides.pdf)
 - [Sources and attribution](./sources.md)
 - [Speaker notes](./speaker-notes.md)
 - [Follow-up links](./links.md)
