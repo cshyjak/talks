@@ -7,7 +7,7 @@
 
 ## Presentation
 
-- PDF: coming closer to the event
+- [Slides (PDF)](./slides.pdf)
 - [Sources and attribution](./sources.md)
 - [Speaker notes](./speaker-notes.md)
 
